@@ -456,3 +456,15 @@ mediaviewPlaybackIconFgOver: mediaviewPlaybackActiveOver;
 mediaviewTransparentBg: COLOR_WHITE;
 mediaviewTransparentFg: #cccccc;
 notificationBg: COLOR_DARK;                    // Notification background
+
+//sidebar
+sideBarBg: #363838
+sideBarBgActive: COLOR_DARK
+sideBarBgRipple: COLOR_DARK
+sideBarTextFgActive: COLOR_BLUE_LIGHT
+sideBarIconFgActive:  COLOR_BLUE_LIGHT
+sideBarBadgeBg: COLOR_BLUE_LIGHT
+sideBarTextFg: COLOR_GRAY
+sideBarIconFg: COLOR_GRAY
+sideBarBadgeBgMuted: COLOR_GRAY
+sideBarBadgeFg: #363838
